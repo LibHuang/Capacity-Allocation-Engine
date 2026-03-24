@@ -49,11 +49,11 @@ No planning meetings.
 > resources reserved → move to next item
 
 **State 2 — Scale Existing Center**
-> Center is full but under node limit → 
-> add nodes → expand capacity → retry placement
+> Center is full but under capacity limit → 
+> add capacity → expand capacity → retry placement
 
 **State 3 — Provision New Center**
-> Center is at node limit → generate new center → 
+> Fulfillment center is at capacity limit → generate new center → 
 > add to network → retry placement
 
 ---
